@@ -1,0 +1,16 @@
+C:\Apipractice\StudentDb\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Apipractice\StudentDb\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Apipractice\StudentDb\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Apipractice\StudentDb\bin\Debug\netcoreapp2.2\StudentDb.deps.json
+C:\Apipractice\StudentDb\bin\Debug\netcoreapp2.2\StudentDb.runtimeconfig.json
+C:\Apipractice\StudentDb\bin\Debug\netcoreapp2.2\StudentDb.runtimeconfig.dev.json
+C:\Apipractice\StudentDb\bin\Debug\netcoreapp2.2\StudentDb.dll
+C:\Apipractice\StudentDb\bin\Debug\netcoreapp2.2\StudentDb.pdb
+C:\Apipractice\StudentDb\obj\Debug\netcoreapp2.2\StudentDb.csprojAssemblyReference.cache
+C:\Apipractice\StudentDb\obj\Debug\netcoreapp2.2\StudentDb.RazorAssemblyInfo.cache
+C:\Apipractice\StudentDb\obj\Debug\netcoreapp2.2\StudentDb.RazorAssemblyInfo.cs
+C:\Apipractice\StudentDb\obj\Debug\netcoreapp2.2\StudentDb.AssemblyInfoInputs.cache
+C:\Apipractice\StudentDb\obj\Debug\netcoreapp2.2\StudentDb.AssemblyInfo.cs
+C:\Apipractice\StudentDb\obj\Debug\netcoreapp2.2\StudentDb.RazorTargetAssemblyInfo.cache
+C:\Apipractice\StudentDb\obj\Debug\netcoreapp2.2\StudentDb.dll
+C:\Apipractice\StudentDb\obj\Debug\netcoreapp2.2\StudentDb.pdb
